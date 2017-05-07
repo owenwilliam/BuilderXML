@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configs>
+
+  <!-- <config id="userInfo">
+  	<item id="1" name="Owen" age="25" address="shengzheng">This is Owen's identity information!</item>
+  	<item id="2" name="Rubby" age="39" address="xiamen">This is Rubby's identity information!</item>
+  	<item id="3" name="Hanks" age="59" address="fuzhou">This is Hanks's identity information!</item>
+  </config> -->
+<config id="userInfo">
+  	<item id="Owen" >This is Owen's identity information!</item>
+  	<item id="Rubby" >This is Rubby's identity information!</item>
+  	<item id="Hanks" >This is Hanks's identity information!</item>
+  </config>
+</configs>
